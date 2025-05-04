@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kezikk
 - 👀 I’m interested in ... Game Development and Programming
-- 🌱 I’m currently learning ... Unity
+- 🌱 I’m currently learning ... Godot and PICO-8
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
